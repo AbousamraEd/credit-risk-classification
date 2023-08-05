@@ -1,6 +1,6 @@
 # credit-risk-classification
 ## Credit Risk Analysis Report
-<font size="1"> your text 
+<font size="1">
 ### The purpose of this analysis is to create and evaluate the accuracy of a data model that predicts the credity worthiness of potential borrowers from peer-to-peer lending services
 
 ### * Balanced Accuracy Score: 95.20%
